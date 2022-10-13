@@ -1,6 +1,7 @@
 [![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://dhavals.tech.blog)
 <h1 align="center">Hi 👋, I'm Dhaval Solanki aka Cisco</h1>
 <h3 align="center">A Passionate Cyber Security Geek from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/iamdk26" target="blank"><img src="https://img.shields.io/twitter/follow/iamdk26?logo=twitter&style=for-the-badge" alt="iamdk26" /></a> </p>
 
