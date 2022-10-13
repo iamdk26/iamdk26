@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamdk26" target="blank"><img src="https://img.shields.io/twitter/follow/iamdk26?logo=twitter&style=for-the-badge" alt="iamdk26" /></a> </p>
 
-- 🔭 I’m currently working on **Rapid7 SIEM**
+- 🔭 I’m currently working on **Rapid7 SIEM, IDR, SOAR, MDR**
 
 - 🌱 I’m currently learning **Bug Bounty, Threat Hunting**
 
