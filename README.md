@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)](https://dhavals.tech.blog)
+[![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?width=100%)](https://dhavals.tech.blog)
 <h1 align="center">Hi 👋, I'm Dhaval Solanki aka Cisco</h1>
 <h3 align="center">A Passionate Cyber Security Geek from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
