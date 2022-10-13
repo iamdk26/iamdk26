@@ -1,3 +1,4 @@
+[![MasterHead](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)](https://dhavals.tech.blog)
 <h1 align="center">Hi 👋, I'm Dhaval Solanki aka Cisco</h1>
 <h3 align="center">A Passionate Cyber Security Geek from India</h3>
 
